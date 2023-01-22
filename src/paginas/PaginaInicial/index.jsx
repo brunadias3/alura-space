@@ -1,4 +1,4 @@
-import Cabecalho from "../componentes";
+import Cabecalho from "../../componentes/Cabecalho";
 
 export default function PaginaInicial () {
     return (
