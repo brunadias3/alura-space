@@ -11,22 +11,22 @@ export default function Menu() {
           <a href='/'>Início</a>
         </li>
 
-        <li>
+        <li className={styles.menu__item}>
           <img src={maisCurtidas} alt='' />
           <a href='/'>Mais curtidas</a>
         </li>
 
-        <li>
+        <li className={styles.menu__item}>
           <img src={maisVistas} alt='' />
           <a href='/'>Mais vistas</a>
         </li>
 
-        <li>
+        <li className={styles.menu__item}>
           <img src={novas} alt='' />
           <a href='/'>Novas</a>
         </li>
 
-        <li>
+        <li className={styles.menu__item}>
           <img src={surpreendaMe} alt='' />
           <a href='/'>Surpreenda-me</a>
         </li>
