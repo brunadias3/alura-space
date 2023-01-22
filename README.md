@@ -70,7 +70,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
+## 🦸 Autora
 
 <a href="www.linkedin.com/in/brunadias3">
  <img style="border-radius: 50%;" src="https://github.com/brunadias3.png" width="100px;" />
